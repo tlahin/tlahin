@@ -1,4 +1,4 @@
-# Hello there!
+# Greetings, traveller!
 
 About me:
   - Studying at [Hive Helsinki ](https://www.hive.fi/en/)

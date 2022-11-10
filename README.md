@@ -2,7 +2,7 @@
 
 About me
   - Studying at [Hive Helsinki ](https://www.hive.fi/en/)
-  - Interested in embedded system and algorithms
+  - Interested in embedded systems and algorithms
   - Learning new stuff by doing silly projects such as 'snek' and video game addons
 
 Languages

@@ -1,8 +1,14 @@
 # Hello there!
 
+About me:
+  - Studying at [Hive Helsinki ](https://www.hive.fi/en/)
+  - Interested in embedded system and algorithms
+  - Learning new stuff by doing silly projects such as 'snek' and video game addons
 
 Languages
-![bash-plain](https://user-images.githubusercontent.com/79833061/201037318-47dcc2a0-5e31-4960-88e3-7632211edf85.svg)
-![git-original-wordmark](https://user-images.githubusercontent.com/79833061/201037322-a9533530-8d80-463c-bc88-81c60c4a88c4.svg)
-![165076061-6cb40c43-16c0-4c89-b558-08d3a5e9a6c1](https://user-images.githubusercontent.com/79833061/201037329-202accaa-c8cb-4adb-84b8-916babafe279.png)
-![c-original](https://user-images.githubusercontent.com/79833061/201037331-3e0f87d7-403d-4477-ad36-143016191199.svg)
+
+   <img src="https://user-images.githubusercontent.com/79833061/201039053-58e9f0dd-e1bd-44af-8c32-e0c8af268427.svg" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/79833061/201038790-e195fbcc-ee99-4e52-882c-df1910c09e56.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/79833061/201039001-341d4d17-22f8-4053-84a4-a1d48e1d7f2e.svg" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/79833061/201039068-0f9a376f-6eeb-446b-bc50-69e64fb6983c.svg" width="50" height="50" />
+
+Message me!
+
+- teemu.lahin@gmail.com

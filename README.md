@@ -1,9 +1,9 @@
 # Greetings, traveller!
 
 About me
-  - Studying at [Hive Helsinki ](https://www.hive.fi/en/)
-  - Interested in embedded systems and algorithms
-  - Learning new stuff by doing silly projects such as 'snek' and video game addons
+  - A graduate at [Hive Helsinki ](https://www.hive.fi/en/)
+  - Interested in embedded systems/IoT solutions
+  - Learning new stuff by doing puzzles at leetcode and writing my own projects from time to time
 
 Languages
 

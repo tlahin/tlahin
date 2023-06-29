@@ -2,8 +2,9 @@
 
 About me
   - A graduate at [Hive Helsinki ](https://www.hive.fi/en/)
-  - Interested in embedded systems/IoT solutions
-  - Learning new stuff by doing puzzles at leetcode and writing my own projects from time to time
+  - Interested in front end development and IoT systems!
+  - Learning new technologies by doing puzzles at leetcode and writing my own projects from time to time
+  - Currently doing a Fullstack course on open uni
 
 Languages
 

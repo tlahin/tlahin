@@ -1,9 +1,9 @@
 # Greetings, traveller!
 
 About me
-  - A graduate at [Hive Helsinki ](https://www.hive.fi/en/)
-  - Interested in front end development and IoT systems!
-  - Learning new technologies by doing puzzles at leetcode and writing my own projects from time to time
+  - A graduate at [Hive Helsinki](https://www.hive.fi/en/)
+  - Especially interested in front end web development!
+
 
 Languages
 
